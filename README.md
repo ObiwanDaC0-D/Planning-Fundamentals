@@ -16,8 +16,8 @@ In repository **Settings → Pages**, choose **Deploy from a branch**, select **
 - Interactive knowledge checks with browser-local progress
 - Links to official guidance for verification
 
-## Reference-document status
-At the time v1 was created, the connected repository appeared empty and no supplied reference documents were accessible. This first release is an introductory educational synthesis, **not** an official USACE product or policy interpretation. Review current federal planning guidance and the applicable project authority before relying on content in professional decisions.
+## Reference documents
+The repository contains three historical Institute for Water Resources publications: `Planning_Manual.pdf` (1996), `Planning_Primer.pdf` (1997), and `Planning_Manual_Part_II.pdf` (2017). Version 2.0 adds source-grounded concept lessons, applied scenarios, and a source atlas with printed-page pointers. These materials are educational, not current controlling policy; verify applicable current guidance before professional use.
 
 ## Future content integration
 Add source documents to the repository (for example, under `references/`) and expand or revise the topic library to reflect them. Do not commit nonpublic, controlled, sensitive, or restricted documents to a public repository.
@@ -26,4 +26,4 @@ Add source documents to the repository (for example, under `references/`) and ex
 Single self-contained `index.html` with inline CSS and vanilla JavaScript. All content is static; the only local persistence is quiz completion in browser localStorage.
 
 ## Version
-1.0
+2.0 — source-grounded learning lab, decision scenarios, and source atlas.
