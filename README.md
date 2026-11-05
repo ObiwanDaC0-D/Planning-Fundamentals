@@ -29,3 +29,7 @@ Single self-contained `index.html` with inline CSS and vanilla JavaScript. All c
 4.0 — adds a searchable cross-manual reference explorer with 51 curated chapter and section entries, related-source navigation, local bookmarks, and local study notes. The index searches metadata and summaries rather than full PDF text.\n\n3.0 — adds an interactive six-step process explorer and an illustrative alternatives comparison lab with adjustable priorities, performance scores, and uncertainty sensitivity. Both modules link to printed-page references in the historical IWR publications.
 
 The comparison scores are fictional instructional values, not official USACE calculations, evaluation accounts, or plan-selection guidance.
+
+
+## Version 6.0
+Five original applied planning cases with option-by-option feedback, historical IWR source references, locally saved attempts, and optional written reflections. Version 5.0 also includes the six-unit Guided Study course. These are educational exercises and do not replace current USACE policy or study-specific review.
