@@ -33,3 +33,7 @@ The comparison scores are fictional instructional values, not official USACE cal
 
 ## Version 6.0
 Five original applied planning cases with option-by-option feedback, historical IWR source references, locally saved attempts, and optional written reflections. Version 5.0 also includes the six-unit Guided Study course. These are educational exercises and do not replace current USACE policy or study-specific review.
+
+
+## Version 7.0 — usability update
+Grouped navigation into Start, Explore, Reference, and Practice & Help. Added a compact mobile navigation menu and a simplified home dashboard with direct access to major learning modules and local progress summaries. Existing modules and localStorage keys remain unchanged. The JavaScript files are still separate and should be consolidated in a later refactor after browser regression testing.
