@@ -37,3 +37,7 @@ Five original applied planning cases with option-by-option feedback, historical 
 
 ## Version 7.0 — usability update
 Grouped navigation into Start, Explore, Reference, and Practice & Help. Added a compact mobile navigation menu and a simplified home dashboard with direct access to major learning modules and local progress summaries. Existing modules and localStorage keys remain unchanged. The JavaScript files are still separate and should be consolidated in a later refactor after browser regression testing.
+
+
+## Automated checks (v8)
+A dependency-free Node smoke test in `tests/smoke.cjs` runs via `.github/workflows/smoke.yml` on pushes, pull requests, and manual dispatch. It verifies JavaScript parsing, linked scripts, navigation declarations, and required PDFs. This is static validation, not end-to-end browser testing; interactive behavior and mobile usability still require a browser regression pass.
