@@ -26,4 +26,6 @@ Add source documents to the repository (for example, under `references/`) and ex
 Single self-contained `index.html` with inline CSS and vanilla JavaScript. All content is static; the only local persistence is quiz completion in browser localStorage.
 
 ## Version
-2.0 — source-grounded learning lab, decision scenarios, and source atlas.
+3.0 — adds an interactive six-step process explorer and an illustrative alternatives comparison lab with adjustable priorities, performance scores, and uncertainty sensitivity. Both modules link to printed-page references in the historical IWR publications.
+
+The comparison scores are fictional instructional values, not official USACE calculations, evaluation accounts, or plan-selection guidance.
