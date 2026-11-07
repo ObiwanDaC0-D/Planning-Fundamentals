@@ -1,3 +1,11 @@
+# Planning Fundamentals
+
+Planning Fundamentals is an educational reference for understanding the federal water-resources planning process and the analytical reasoning behind plan formulation. It combines structured process guidance, searchable concepts, glossary material, practical examples, source references, and knowledge checks. Historical planning manuals are learning resources rather than a substitute for current controlling policy.
+
+**At a glance:** An interactive reference and learning lab for federal water-resources planning and USACE plan formulation, including the six-step planning process, reference materials, and knowledge checks.
+
+---
+
 # Planning Fundamentals — Reference & Learning Lab
 
 A lightweight, standalone learning and reference application for federal water resources planning and USACE plan formulation.
